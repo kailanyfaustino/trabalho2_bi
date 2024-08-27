@@ -34,10 +34,10 @@ Limpamos os dados e manipulamos valores ausentes. Além disso, mesclamos conjunt
 
 ### Treinamento e Avaliação 
 
-- **Otimização:**Usamos o otimizador Adam com uma taxa de aprendizado de 0,001.
-- **Função de perda:**Erro quadrático médio (RMSE).
+- **Otimização:** Usamos o otimizador Adam com uma taxa de aprendizado de 0,001.
+- **Função de perda:** Erro quadrático médio (RMSE).
 - **Épocas:**.
-- **Avaliação do modelo:**A métrica de avaliação final foi a Raiz do Erro Logarítmico Quadrático Médio (RMSLE).
+- **Avaliação do modelo:** A métrica de avaliação final foi a Raiz do Erro Logarítmico Quadrático Médio (RMSLE).
 
 ## Resultados 📈
 
